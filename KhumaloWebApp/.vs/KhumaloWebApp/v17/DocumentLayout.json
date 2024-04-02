@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\khumalowebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\khumalowebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\wwwroot\\css\\myworkpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\wwwroot\\css\\myworkpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\models\\mywork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\models\\mywork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\models\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\models\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|c:\\users\\lynn t-c\\source\\repos\\khumalowebapp\\khumalowebapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE71BE15-0027-4279-9397-C869FA15787C}|KhumaloWebApp\\KhumaloWebApp.csproj|solutionrelative:khumalowebapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cs",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Models\\Index.cs",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Models\\Index.cs",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Models\\Index.cs",
+              "RelativeToolTip": "KhumaloWebApp\\Models\\Index.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:00:46.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Models\\About.cs",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Models\\About.cs",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Models\\About.cs",
+              "RelativeToolTip": "KhumaloWebApp\\Models\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:00:09.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyWorkPage.css",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\wwwroot\\css\\MyWorkPage.css",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\wwwroot\\css\\MyWorkPage.css",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\wwwroot\\css\\MyWorkPage.css",
+              "RelativeToolTip": "KhumaloWebApp\\wwwroot\\css\\MyWorkPage.css",
+              "ViewState": "AQIAAAMAAADAMzMzMzMbwBMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-26T19:33:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "KhumaloWebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-25T21:40:43.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhumaloWebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\KhumaloWebApp.csproj",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\KhumaloWebApp.csproj",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\KhumaloWebApp.csproj",
+              "RelativeToolTip": "KhumaloWebApp\\KhumaloWebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T11:33:24.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Models\\MyWork.cs",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Models\\MyWork.cs",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Models\\MyWork.cs",
+              "RelativeToolTip": "KhumaloWebApp\\Models\\MyWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:01:29.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Models\\Contact.cs",
+              "RelativeToolTip": "KhumaloWebApp\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:01:51.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KhumaloWebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:30:53.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyWork.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Views\\Home\\MyWork.cshtml",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Views\\Home\\MyWork.cshtml",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Views\\Home\\MyWork.cshtml",
+              "RelativeToolTip": "KhumaloWebApp\\Views\\Home\\MyWork.cshtml",
+              "ViewState": "AQIAAD4AAACAZ2ZmZuYswFcAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T19:32:50.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "KhumaloWebApp\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAEMAAABwZmZmZmYUwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T19:30:38.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "KhumaloWebApp\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAE4AAADgMjMzM3MvwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T19:09:24.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KhumaloWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAbGZmZmbevx4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:04:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KhumaloWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAA0czMzIwjwA4AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T19:01:50.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lynn T-C\\source\\repos\\KhumaloWebApp\\KhumaloWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KhumaloWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAABgNTMzM/MmwBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T18:59:59.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
